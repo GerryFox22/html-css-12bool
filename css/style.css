@@ -1,5 +1,6 @@
 
 .colonna {
+    line-height: 200px;
     text-align: center;
     background-color: pink;
     height: 200px;
@@ -7,7 +8,9 @@
 }
 
 .contenuto {
-    line-height: 200px;
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
 }
 
 
