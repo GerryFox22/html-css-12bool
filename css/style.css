@@ -1,0 +1,23 @@
+
+.colonna {
+    text-align: center;
+    background-color: pink;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.contenuto {
+    line-height: 200px;
+}
+
+
+.colonna-annidata {
+    text-align: center;
+    background-color: #e77286;
+    border: 1px solid white;
+}
+
+.padding {
+    display: flex;
+    padding: 5px;
+}
